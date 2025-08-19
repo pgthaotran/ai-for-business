@@ -8,7 +8,7 @@ This repository is organized into:
 - **Assignments** : Practical exercises using various AI tools to analyze data and generate insights.
 
 - **Projects** : A comprehensive application of AI concepts to address a real-world business case.
-- 
+  
 - **Exam** : Practice test.
 
 The purpose of this repo is to document my learning journey, share applied projects, and demonstrate how AI can enhance decision-making, strategy, and innovation in business.
