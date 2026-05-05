@@ -1,14 +1,39 @@
-## Introduction
-This repository contains my assignments, final project and exams for **MIS-395: Artificial Intelligence for Business (Q4 2024–2025).**
+# AI for Business
 
-The course focuses on exploring how Artificial Intelligence (AI) can be applied to business contexts, combining both theoretical knowledge and practical, hands-on experience. Throughout the semester, I worked with different AI tools and platforms (such as AWS PartyRock, Deepnote, Julius AI, NotebookLM, and RapidMiner) to analyze data, solve case studies, and develop AI-driven business strategies.
+Hands-on exploration of AI tools and platforms applied to real business problems — from data analysis to AI-driven decision-making.
 
-This repository is organized into:
+---
 
-- **Assignments** : Practical exercises using various AI tools to analyze data and generate insights.
+## Projects & Assignments
 
-- **Projects** : A comprehensive application of AI concepts to address a real-world business case.
-  
-- **Exam** : Practice test.
+### Generative AI with AWS PartyRock
+Exploring generative AI capabilities through AWS PartyRock for business applications.
 
-The purpose of this repo is to document my learning journey, share applied projects, and demonstrate how AI can enhance decision-making, strategy, and innovation in business.
+📂 [`generative-ai-aws-partyrock/`](./generative-ai-aws-partyrock)
+
+---
+
+### Business Data Analysis with Deepnote
+Data analysis and insight generation using Deepnote's collaborative notebook environment.
+
+📂 [`data-analysis-deepnote/`](./data-analysis-deepnote)
+
+---
+
+### AI-Powered Business Analysis with Julius AI
+Applying Julius AI to analyze business datasets and generate actionable insights.
+
+📂 [`ai-powered-analysis-julius/`](./ai-powered-analysis-julius)
+
+---
+
+### Data Mining with RapidMiner
+Data mining techniques applied to business datasets using RapidMiner.
+
+📂 [`data-mining-rapid-miner/`](./data-mining-rapid-miner)
+
+---
+
+## Tools & Platforms
+
+`AWS PartyRock` · `Deepnote` · `Julius AI` · `RapidMiner`
